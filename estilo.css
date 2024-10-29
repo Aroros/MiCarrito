@@ -104,7 +104,8 @@ nav .nav-list  li {
   height: 100vh; 
   align-items:center;
   justify-content:center;
-  background-image: url("./imagenes/setcapucha.jpg");
+  background-image: url("./imagenes/infantiles.jpeg");
+  /*background-image: url("./imagenes/setcapucha.jpg");*/
   /*background-image: url("./imagenes/mantaCrecimientoRosa.jpeg");*/
   Object-fit: cover; /* Para que la imagen se ajuste sin distorsionarse */
   display: flex;
